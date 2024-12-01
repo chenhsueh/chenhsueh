@@ -13,3 +13,5 @@
 [![My Skills](https://skillicons.dev/icons?i=go,arch,debian,raspberrypi)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,github)](https://skillicons.dev)
+
+[![chensueh's github stats](https://github-readme-stats.vercel.app/api?username=chenhsueh&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
